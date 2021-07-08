@@ -9,4 +9,4 @@ Learn how to:
 
 ![1625670345945](https://user-images.githubusercontent.com/61671531/124784932-fede8e80-df78-11eb-85e2-8c6fbcb190ca.jpg)
 
-Check out [https://github.com/boyleerock/Pose_Estimation](https://github.com/boyleerock/c)
+Check out [Pose Estimation](https://github.com/boyleerock/Pose_Estimation)
